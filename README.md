@@ -17,7 +17,7 @@ ALGORITHMIC AND SOFTWARE FORECASTING OF FINAL PROPERTIES OF COMPOSITE MATERIALS
 
 4 README.md
 
-5 Файл "X_bp" и "X_nup"
+5 Файл "X_bp" и "X_nup" в xlsx и csv формате
 
 
 
