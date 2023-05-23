@@ -3,6 +3,7 @@ ALGORITHMIC AND SOFTWARE FORECASTING OF FINAL PROPERTIES OF COMPOSITE MATERIALS
 
 
 
+
 1 Файлы и папки необходимые для загрузки приложения. К ним относятся:
 
   model_regressor.sav
