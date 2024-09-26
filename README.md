@@ -1,5 +1,5 @@
-# АЛГОРИТМИЧЕСКОЕ И ПРОГРАММНОЕ ПРОГНОЗИРОВАНИЕ КОНЕЧНЫХ СВОЙСТВ КОМПОЗИЦИОННЫХ МАТЕРИАЛОВ
-ALGORITHMIC AND SOFTWARE FORECASTING OF FINAL PROPERTIES OF COMPOSITE MATERIALS
+ ПРОГНОЗИРОВАНИЕ КОНЕЧНЫХ СВОЙСТВ КОМПОЗИЦИОННЫХ МАТЕРИАЛОВ
+FORECASTING OF FINAL PROPERTIES OF COMPOSITE MATERIALS
 
 
 
